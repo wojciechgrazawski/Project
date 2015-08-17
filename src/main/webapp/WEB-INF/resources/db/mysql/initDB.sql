@@ -1,0 +1,12 @@
+CREATE DATABASE IF NOT EXISTS users;
+GRANT ALL PRIVILEGES ON users.* TO pc@localhost IDENTIFIED BY 'pc';
+
+USE users;
+
+CREATE TABLE IF NOT EXISTS user (
+  id INT(4) UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  first_name  VARCHAR(30),
+  last_name VARCHAR(30),
+  INDEX(id)
+)engine=InnoDB;
+

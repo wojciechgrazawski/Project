@@ -1,0 +1,6 @@
+/home/wojciech/NetBeansProjects/Project/src/main/java/com/mycompany/project/services/UserService.java
+/home/wojciech/NetBeansProjects/Project/src/main/java/com/mycompany/project/entities/User.java
+/home/wojciech/NetBeansProjects/Project/src/main/java/com/mycompany/project/services/UserServiceImpl.java
+/home/wojciech/NetBeansProjects/Project/src/main/java/com/mycompany/project/controllers/ProjectController.java
+/home/wojciech/NetBeansProjects/Project/src/main/java/com/mycompany/project/repository/UserRepository.java
+/home/wojciech/NetBeansProjects/Project/src/main/java/com/mycompany/project/repository/JpaUserRepositoryImpl.java

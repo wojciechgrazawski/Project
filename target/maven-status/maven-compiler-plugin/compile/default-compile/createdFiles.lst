@@ -1,0 +1,6 @@
+com/mycompany/project/controllers/ProjectController.class
+com/mycompany/project/services/UserService.class
+com/mycompany/project/repository/JpaUserRepositoryImpl.class
+com/mycompany/project/entities/User.class
+com/mycompany/project/repository/UserRepository.class
+com/mycompany/project/services/UserServiceImpl.class
